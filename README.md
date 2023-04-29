@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/shobanamg/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://interactive-rating-component-shobanamg.vercel.app/)
+- Solution URL: (https://github.com/shobanamg/interactive-rating-component)
+- Live Site URL: (https://interactive-rating-component-shobanamg.vercel.app/)
 
 ## My process
 
