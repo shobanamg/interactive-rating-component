@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 export const RatingsCardWrapper = styled.div`
-  @import url("https://fonts.googleapis.com/css2?family=Overpass:wght@400;500;700&display=swap");
+ @import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;500;700&display=swap');
 
-  font-family: "Overpass", sans-serif;
+  font-family: 'Overpass', sans-serif;
   width: 24rem;
   height: 24rem;
   border-radius: 30px;
