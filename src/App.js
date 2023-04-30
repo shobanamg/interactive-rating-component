@@ -7,10 +7,15 @@ function App() {
   const [rate, setRate] = useState(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const handleClick=() => {
+    setSubmitted(false);
+    setRate(null);
+  }
+
   return (
     <AppWrapper>
       {submitted ? (
-        <ThankYouCard rate={rate} handleClick={() => setSubmitted(false)} />
+        <ThankYouCard rate={rate} handleClick={handleClick} />
       ) : (
         <RatingsCard
           rate={rate}

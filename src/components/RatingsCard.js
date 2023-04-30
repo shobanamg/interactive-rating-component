@@ -13,6 +13,9 @@ const RatingsCard = ({ rate, setRate, setSubmitted }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    if (!rate) {
+        return alert("Please select a rating!");
+    }
     setSubmitted(true);
   };
 
