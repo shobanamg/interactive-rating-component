@@ -74,7 +74,6 @@ export const SubmitBtn = styled.div`
     background: #fc7614;
     color: #fff;
     font-size: 1.2rem;
-    font-family: sans-serif;
     font-weight: bold;
     border-radius: 22.5px;
     cursor: pointer;
