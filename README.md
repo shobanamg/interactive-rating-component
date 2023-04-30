@@ -48,7 +48,7 @@ Users should be able to:
 ### What I learned
 
 When I was doing this Project, I have learned how to pass props down from the parent component to  child component, 
-and also I discovered a useful tool called styled components which helped me make my project look better
+and also I discovered a useful tool called styled components which helped me to make my project look better
 ```jsx
 <ThankYouImgWrapper>
   <img src={thankYouImg} alt="thankYou" />
@@ -59,7 +59,7 @@ export const ThankYouImgWrapper = styled.div`
   max-width: 100%;
 `;
 ```
-
+ThankYouImgWrapper is new component that has the specified styles applied to it.
 ## Author
 
 - Website - [Shobana Mathiarul](https://www.your-site.com)
